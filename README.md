@@ -4,7 +4,7 @@
 
 > 🔥 Perfect for students, data scientists, and ML engineers who want an end-to-end playground for rapid experimentation.
 
-Live sreamlit app [click here] (https://data2model-08.streamlit.app/Visualization)
+Live sreamlit app [click here](https://data2model-08.streamlit.app/Visualization)
 ---
 
 ## 🚀 Features
