@@ -19,10 +19,7 @@
   - Residual Distribution
 - 🧪 Evaluate with Accuracy, MSE, R²
 - 📈 Visualize dataset relationships (correlation matrix)
-- 🧠 Test trained models on custom user input
 - 💾 Modular codebase ready for:
-  - SHAP Explainability (Coming Soon)
-  - Hyperparameter Tuning with GridSearchCV / Optuna
   - Model saving with `joblib`
 
 ---
@@ -111,10 +108,8 @@ It will open in your browser at [http://localhost:8501](http://localhost:8501)
 4. Set `app.py` as the main file
 5. Click **Deploy**
 
-Your app will be live at:
-```
-https://<your-username>-data2model.streamlit.app
-```
+Your app will be live.
+
 
 ---
 
